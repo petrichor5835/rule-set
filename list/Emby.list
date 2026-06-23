@@ -1,0 +1,7 @@
+# NAME: Emby
+# AUTHOR: y18357
+# DESC: Emby Service
+# DOMAIN-SUFFIX: 2
+
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,uhdnow.com

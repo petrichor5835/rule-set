@@ -1,0 +1,7 @@
+# NAME: ProxyCustom
+# AUTHOR: y18357
+# DESC: Personal HK rules
+# TOTAL: 2
+
+DOMAIN-SUFFIX,seagm.com
+DOMAIN-SUFFIX,integrate.api.nvidia.com

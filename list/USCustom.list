@@ -1,0 +1,7 @@
+# NAME: ProxyCustom
+# AUTHOR: y18357
+# DESC: Personal US rules
+# TOTAL: 2
+
+DOMAIN-SUFFIX,apis.updf.com
+DOMAIN-SUFFIX,api.updf.com
